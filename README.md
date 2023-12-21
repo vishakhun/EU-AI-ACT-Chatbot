@@ -1,7 +1,7 @@
 # Chat with EU AI ACT - Mistral7B and Llamaindex
 
 ## Overview
-This Colab notebook showcases the integration of advanced AI models for document processing and information retrieval, focusing on the EU AI Act dataset. It leverages the capabilities of Llama CPP and Langchain Embeddings for text processing, llama-index for data indexing, and transformers for accessing pre-trained language models.
+This Project showcases the integration of advanced AI models for document processing and information retrieval, focusing on the EU AI Act dataset. It leverages the capabilities of Llama CPP and Langchain Embeddings for text processing, llama-index for data indexing, and transformers for accessing pre-trained language models.
 
 ## Key Features
 - **Advanced Text Processing**: Integration of Llama CPP and Langchain Embeddings for deep semantic analysis and natural language processing.
